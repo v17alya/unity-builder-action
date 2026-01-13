@@ -4,18 +4,21 @@ Customizable Unity build automation system for [GameCI GitHub Actions](https://g
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Usage](#usage)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Usage](#-usage)
 - [Adding New Arguments](#-adding-new-arguments)
-- [Architecture](#architecture)
-- [Extending to New Platforms](#extending-to-new-platforms)
-- [GitHub Actions Integration](#github-actions-integration)
-- [API Reference](#api-reference)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
+- [Architecture](#-architecture)
+- [Extending to New Platforms](#-extending-to-new-platforms)
+- [GitHub Actions Integration](#-github-actions-integration)
+- [API Reference](#-api-reference)
+- [Examples](#-examples)
+- [Troubleshooting](#-troubleshooting)
+- [License](#-license)
+- [Author](#-author)
+- [Acknowledgments](#-acknowledgments)
 
 ## 🎯 Overview
 
